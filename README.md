@@ -1,4 +1,4 @@
-# cav_security_attacls
+# Security Attacks on Autonomous Vehicles: An ML Analysis
 
 With daily advancements in autonomous technology, the field of artificial intelligence and deep learning applications in this automotive industry has noticed continuously increasing participation. The advancing applications however come with their own vulnerabilities.The focus of this project is on the network security attacks. We use the KDD99 dataset to address the problem by employing supervised and unsupervised Machine Learning Algorithms for detection and classification of the numerous attacks.
 
